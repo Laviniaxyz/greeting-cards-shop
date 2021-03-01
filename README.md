@@ -1,5 +1,5 @@
 Steps to check the app:
 
-Download the project
-NPM install
-NPM start
+1. Download the project
+2. NPM install
+3. NPM start
