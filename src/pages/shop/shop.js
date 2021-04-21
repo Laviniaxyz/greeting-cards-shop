@@ -1,11 +1,11 @@
 import React from 'react' 
-import {dataImages }from '../../data/data'
+import CardList from '../../components/card-list/cardlist'
 
 const Shop = () => {
   return(
-    <div>
-      {/*dataImages.map(image => <img key={image.id} src={image.image}/>)*/}
-    </div>
+    <>
+    <CardList/>
+    </>
   )
 }
 

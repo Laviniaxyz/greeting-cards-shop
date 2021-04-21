@@ -8,51 +8,51 @@ import greatestadventureCard from '../assets/cards-images/7greatestadventure.jpg
 import sleepCard from '../assets/cards-images/8sleep.jpg';
 
 
-export const dataImages = [
+export const cardsInStock = [
   {
-    id: 1,
+    id: 'u1',
     image: nicebeardCard ,
     name: 'Beard Card' ,
     price: 10
   },
   {
-    id: 2,
+    id: 'u2',
     image: beenbadCard ,
     name: 'Bad Card' ,
     price: 12
   },
   {
-    id: 3,
+    id: 'u3',
     image: youresweetCard ,
     name: 'Sweet Card' ,
     price: 10
   },
   {
-    id: 4,
+    id: 'u4',
     image: stillokCard ,
     name: 'OK Card' ,
     price: 12
   },
   {
-    id: 5,
+    id: 'u5',
     image: allyoursCard ,
     name: 'All yours Card' ,
     price: 12
   },
   {
-    id: 6,
+    id: 'u6',
     image: everydaybetterCard ,
     name: 'Lovely Card' ,
     price: 11
   },
   {
-    id: 7,
+    id: 'u7',
     image: greatestadventureCard,
     name: 'Adventure Card' ,
     price: 12
   },
   {
-    id: 8,
+    id: 'u8',
     image: sleepCard,
     name: 'Sleep Card' ,
     price: 10

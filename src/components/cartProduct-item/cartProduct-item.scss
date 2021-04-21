@@ -1,0 +1,110 @@
+.cart-page {
+  display: flex;
+  flex-direction: column;
+  min-width: 400px;
+  width: 700px;
+  margin: 10px;
+
+  .cart-product {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 90%;
+    margin: auto;
+    box-sizing: border-box;
+    border-bottom: 1px solid #c0c0c0;
+
+    .product-image {
+      height: 250px;
+      margin-bottom: 10px;
+    }
+
+    img {
+      height: 250px;
+      padding-left: 20px;
+    }
+
+    .product-details {
+      padding: 10px 20px;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      justify-content: space-evenly;
+      width: 100%;
+      margin-bottom: 10px;
+
+      .description {
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 20px;
+      }
+
+      .detailed {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: flex-start;
+        font-size: 14px;
+      }
+
+      .price {
+        span {
+          font-size: 16px;
+          font-weight: bold;
+        }
+      }
+
+      .total-product {
+        span {
+          font-size: 16px;
+          font-weight: bold;
+        }
+      }
+
+      .quantitextandq {
+        display: flex;
+        flex-direction: row;
+        padding-bottom: 10px;
+
+        .quantity {
+          margin-left: 5px;
+          display: flex;
+          align-items: center;
+
+          span {
+            font-weight: bold;
+            font-size: 16px;
+          }
+
+          .arrow-left,
+          .arrow-right {
+            cursor: pointer;
+          }
+        }
+      }
+
+      .trash {
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        padding-top: 20px;
+        padding-bottom: 10px;
+        font-size: 14px;
+      }
+    }
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .cart-page {
+    width: 100%;
+    min-width: 200px;
+    flex-direction: column;
+    margin: auto;
+
+    .cart-product {
+      flex-direction: column;
+    }
+  }
+}

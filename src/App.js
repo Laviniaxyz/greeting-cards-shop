@@ -32,7 +32,7 @@ function App() {
       <AuthProvider>
         <Header toggleMobileNav={toggleMobileNav} showMobileNav={showMobileNav}/>
           <Switch>
-            <Route exact path='/' component={Homepage}/>
+            <Route exact path='/' component={Login}/>
             <Route path='/shop' component={Shop}/>
             <Route path='/contact' component={Contact}/>
             <Route path='/login' component={Login}/>
