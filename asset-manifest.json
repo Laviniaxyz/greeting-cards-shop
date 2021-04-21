@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/greeting-cards-shop/static/css/main.4ada7f59.chunk.css",
+    "main.js": "/greeting-cards-shop/static/js/main.c34a944b.chunk.js",
+    "main.js.map": "/greeting-cards-shop/static/js/main.c34a944b.chunk.js.map",
+    "runtime-main.js": "/greeting-cards-shop/static/js/runtime-main.21e55b69.js",
+    "runtime-main.js.map": "/greeting-cards-shop/static/js/runtime-main.21e55b69.js.map",
+    "static/js/2.0c60d886.chunk.js": "/greeting-cards-shop/static/js/2.0c60d886.chunk.js",
+    "static/js/2.0c60d886.chunk.js.map": "/greeting-cards-shop/static/js/2.0c60d886.chunk.js.map",
+    "static/js/3.b3cae5cb.chunk.js": "/greeting-cards-shop/static/js/3.b3cae5cb.chunk.js",
+    "static/js/3.b3cae5cb.chunk.js.map": "/greeting-cards-shop/static/js/3.b3cae5cb.chunk.js.map",
+    "index.html": "/greeting-cards-shop/index.html",
+    "static/css/main.4ada7f59.chunk.css.map": "/greeting-cards-shop/static/css/main.4ada7f59.chunk.css.map",
+    "static/js/2.0c60d886.chunk.js.LICENSE.txt": "/greeting-cards-shop/static/js/2.0c60d886.chunk.js.LICENSE.txt",
+    "static/media/1nicebeard.3548ecd3.jpg": "/greeting-cards-shop/static/media/1nicebeard.3548ecd3.jpg",
+    "static/media/2beenbad.c8935245.jpg": "/greeting-cards-shop/static/media/2beenbad.c8935245.jpg",
+    "static/media/3youresweet.06a44de4.jpg": "/greeting-cards-shop/static/media/3youresweet.06a44de4.jpg",
+    "static/media/4stillok.fd08c1cf.jpg": "/greeting-cards-shop/static/media/4stillok.fd08c1cf.jpg",
+    "static/media/5allyours.87e5adb1.jpg": "/greeting-cards-shop/static/media/5allyours.87e5adb1.jpg",
+    "static/media/6everydaybetter.a4803eb8.jpg": "/greeting-cards-shop/static/media/6everydaybetter.a4803eb8.jpg",
+    "static/media/7greatestadventure.ee6a66f1.jpg": "/greeting-cards-shop/static/media/7greatestadventure.ee6a66f1.jpg",
+    "static/media/8sleep.6d011624.jpg": "/greeting-cards-shop/static/media/8sleep.6d011624.jpg",
+    "static/media/logo2.fd52e288.jpg": "/greeting-cards-shop/static/media/logo2.fd52e288.jpg",
+    "static/media/shopping-bag.a688874f.svg": "/greeting-cards-shop/static/media/shopping-bag.a688874f.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.21e55b69.js",
+    "static/js/2.0c60d886.chunk.js",
+    "static/css/main.4ada7f59.chunk.css",
+    "static/js/main.c34a944b.chunk.js"
+  ]
+}
