@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/greeting-cards-shop/static/css/main.4ada7f59.chunk.css",
-    "main.js": "/greeting-cards-shop/static/js/main.c34a944b.chunk.js",
-    "main.js.map": "/greeting-cards-shop/static/js/main.c34a944b.chunk.js.map",
+    "main.js": "/greeting-cards-shop/static/js/main.05a082a7.chunk.js",
+    "main.js.map": "/greeting-cards-shop/static/js/main.05a082a7.chunk.js.map",
     "runtime-main.js": "/greeting-cards-shop/static/js/runtime-main.21e55b69.js",
     "runtime-main.js.map": "/greeting-cards-shop/static/js/runtime-main.21e55b69.js.map",
     "static/js/2.0c60d886.chunk.js": "/greeting-cards-shop/static/js/2.0c60d886.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.21e55b69.js",
     "static/js/2.0c60d886.chunk.js",
     "static/css/main.4ada7f59.chunk.css",
-    "static/js/main.c34a944b.chunk.js"
+    "static/js/main.05a082a7.chunk.js"
   ]
 }
